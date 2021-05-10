@@ -1,0 +1,14 @@
+body{
+    background-color: purple;
+    font-family:monospace;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+}
+#time{
+    font-size: 20px;
+}
