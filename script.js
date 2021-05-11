@@ -45,7 +45,7 @@ function workTime(dateOfBirth) {
         sec++;
         ms-=1000;
     }
-    string = (year + " Years " + month + " Months " + week + " Weeks " + day + " Days " + hour+ " Hours " + min+ " Minutes " + sec + " Seconds");
+    string = (year + " Years " + month + ", Months " + week + ", Weeks " + day + ", Days " + hour+ ", Hours " + min+ ", Minutes and " + sec + " Seconds ago.");
     document.getElementById("time").innerHTML = string;
 }
 //Function to count the amount of leap days between a given date and now, and returns them
