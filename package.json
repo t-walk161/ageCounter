@@ -1,0 +1,20 @@
+{
+  "name": "ageCounter",
+  "version": "1.0.0",
+  "description": "Age Counter by Taylor Walker",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-walk161/ageCounter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-walk161/ageCounter/issues"
+  },
+  "homepage": "https://github.com/t-walk161/ageCounter#readme"
+}
